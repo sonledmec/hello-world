@@ -17,12 +17,12 @@
 # donation wallet adresses
 
 # export some vars as "./ethminer" could be still a wrapper script
-export ETH_WALLET="0x9E431042fAA3224837e9BEDEcc5F4858cf0390B9"
+export ETH_WALLET="0x043e948893bc161b1d459fb949f3ce4f398092ce"
 export WORKERNAME="pooltester"
-export EMAIL="andrea.lanfranchi%40gmail.com"
-export USERNAME="aminer"
+export EMAIL="sontvtl2005@gmail.com"
+export USERNAME="sonledmec"
 export WORKERPWD="x"
-export BTC_WALLET="3C4FURwL4oAaEUuCLYmNPUEKQSPR1FAJ3m"
+export BTC_WALLET="1MTPSt3xfg6oqtDFYE1RvZWCVdUu5u2VFh"
 
 POOLS=""
 #2miners.com
